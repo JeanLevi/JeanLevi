@@ -2,7 +2,7 @@
 - 👀 I’m interested in Progamming
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Jean Levi#4891 on Discord
+- 📫 How to reach me "Jean Levi#4891" on Discord
 
 <!---
 JeanLevi/JeanLevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
